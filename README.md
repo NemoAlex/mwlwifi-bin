@@ -1,8 +1,11 @@
 # mwlwifi-bin
+
 Compiled packages for [mwlwifi project](https://github.com/kaloz/mwlwifi)
+
 This project will keep tracking on mwlwifi project, compile latest driver for OpenWrt stable release (currently 15.05 final).
 
 ## How to install or upgrade
+
 Simply `opkg install` it. No need to remove or delete anything.
 
 ## Step-by-step
