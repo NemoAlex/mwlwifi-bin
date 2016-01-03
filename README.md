@@ -27,6 +27,7 @@ git clone --depth 1 https://github.com/NemoAlex/mwlwifi-bin.git
 Install:
 
 ```
+cd mwlwifi-bin
 opkg install kmod-mwlwifi_3.18.20\+10.3.0.14-20151107-1_mvebu.ipk
 ```
 
