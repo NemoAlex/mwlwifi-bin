@@ -2,7 +2,7 @@
 
 Compiled packages for [mwlwifi project](https://github.com/kaloz/mwlwifi)
 
-This project will keep tracking on mwlwifi project, compile latest driver for OpenWrt stable releases (currently is 15.05 final and 15.05.1).
+This project will keep tracking on mwlwifi project, compile latest driver for OpenWrt stable releases (currently it's both for 15.05 final and 15.05.1).
 
 ## How to install or upgrade
 
