@@ -2,7 +2,7 @@
 
 Compiled packages for [mwlwifi project](https://github.com/kaloz/mwlwifi)
 
-This project will keep tracking on mwlwifi project, compile latest driver for OpenWrt stable release (currently 15.05 final).
+This project will keep tracking on mwlwifi project, compile latest driver for OpenWrt stable releases (currently is 15.05 final and 15.05.1).
 
 ## How to install or upgrade
 
@@ -27,7 +27,7 @@ git clone --depth 1 https://github.com/NemoAlex/mwlwifi-bin.git
 Install:
 
 ```
-cd mwlwifi-bin
+cd mwlwifi-bin/15.05
 opkg install kmod-mwlwifi_3.18.20\+10.3.0.14-20151107-1_mvebu.ipk
 ```
 
